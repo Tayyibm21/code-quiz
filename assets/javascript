@@ -61,6 +61,16 @@ const getFromLocalStorage = function (key, defaultValue) {
     location.assign("/index.html");
   };
 
+  const clearScores = function () {
+    // remove form local storage
+    localStorage.removeItem("highscores");
+  
+    // remove high scores container
+    document.getElementById("highscores-list").remove();
+  
+    // render the no scores component
+    renderNoScores();
+  };
 
 
 
