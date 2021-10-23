@@ -1,0 +1,16 @@
+const getFromLocalStorage = function (key, defaultValue) {
+    const localStorageData = JSON.parse(localStorage.getItem(key));
+  
+    if (!localStorageData) {
+      return defaultValue;
+    } else {
+      return localStorageData;
+    }
+  };
+  
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+:root {
+  --prussian-blue: #003049ff;
+  --maximum-red: #d62828ff;
+  --orange: #f77f00ff;
+  --maximum-yellow-red: #fcbf49ff;
+  --lemon-meringue: #eae2b7ff;
+  --alert-success-text: #0f5132;
+  --alert-success-background: #d1e7dd;
+  --alert-success-border: #badbcc;
+  --alert-danger-text: #842029;
+  --alert-danger-background: #f8d7da;
+  --alert-danger-border: #f5c2c7;
+}
