@@ -1,18 +1,18 @@
 const gameQuestions = [
   {
-    title: "How many Harry Potter films are released?",
-    options: ["3", "6", "8", "10"],
-    correctOption: "8",
+    title: "what was the most popular game in 2020?",
+    options: ["Warzone", "GTA5", "CSGO", "God of War"],
+    correctOption: "Warzone",
   },
   {
-    title: "How many Back to the Future films are released?",
-    options: ["2", "3", "1", "5"],
-    correctOption: "3",
+    title: "what was the most popular game in 2018?",
+    options: ["Warzone", "GTA5", "Fortnite", "PUBG"],
+    correctOption: "Fortnite",
   },
   {
-    title: "How many Rocky films are released?",
-    options: ["1", "3", "4", "6"],
-    correctOption: "6",
+    title: "how many grand theft auto games have been released?",
+    options: ["15", "12", "9", "5"],
+    correctOption: "15",
   },
 ];
 
